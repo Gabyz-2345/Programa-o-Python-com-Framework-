@@ -162,6 +162,10 @@ print('Quantidade:', quantidade)
 
 arquivo.close()
 
+#-------------------------------------
+
+print('------------------------------------')
+
 print('ATIVIDADE 5 -  Copiar arquivo ')
 
 
@@ -187,8 +191,3 @@ print('Arquivo copiado')
 print('--------------------------------')
 
 #--------------------------------------
-
-
-
-
-
